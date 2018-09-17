@@ -1,5 +1,4 @@
 # Talks
-================
- [![Open Issues](https://img.shields.io/github/issues/pydelhi/talks.svg)](https://github.com/pydelhi/talks/issues?q=is%3Aopen+)
+[![Open Issues] (https://github.com/GlobalTechTalks/Talks/issues/new)
 
 To propose a talk, simply create a github issue [here][new-talk-proposal]. :-)
